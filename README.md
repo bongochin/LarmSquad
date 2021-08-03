@@ -9,11 +9,12 @@
 
 ## Mobile Demo
  1. Download [Expo Go](https://expo.dev/client) on your mobile device
- 2. Scan the QR code below
+<!--  2. Scan the QR code below
  <br><br/>
      > <img src="./expoQRCode.png">
-     > <br></br>
-     > https://expo.dev/accounts/bongochin/projects/LarmSquad
+     > <br></br> -->
+ 2. Click the link [here](https://expo.dev/accounts/bongochin/projects/LarmSquad) to access QR Code
+     > currently having issues on iOS devices
 
 ## Local Application Set Up
  1. Run `npm i -g expo-cli`, if not installed already
